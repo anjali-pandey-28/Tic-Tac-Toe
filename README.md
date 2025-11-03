@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-A game build using HTML , CSS , and Javascript
+A game build using HTML , CSS , and Javascript.
