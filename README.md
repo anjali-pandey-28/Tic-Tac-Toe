@@ -22,3 +22,5 @@ HTML – for structure
 CSS3– for styling and responsiveness
 
 JavaScript – for game logic
+
+![image alt](https://github.com/anjali-pandey-28/Tic-Tac-Toe/blob/705a966217970d3411cb6cbaae59b5b3aebfd483/readme%20tictacttoe%20img.jpg)
