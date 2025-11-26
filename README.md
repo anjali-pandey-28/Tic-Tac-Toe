@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 
 A fun and interactive Tic Tac Toe (X-O) game built using HTML, CSS, and JavaScript.
-Play against a friend and see who wins the battle of Xs and Os!
+Play against a friend and see who wins the battle of X and O!
 
 🧩 Features
 
